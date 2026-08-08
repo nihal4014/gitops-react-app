@@ -1,0 +1,4 @@
+apiVersion: v2
+name: root-app
+version: 1.0.0
+description: Root Application for App of Apps pattern
